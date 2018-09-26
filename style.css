@@ -1,0 +1,11 @@
+students{
+	background-color:blue;
+}
+student{
+text-align:center;
+display:block; 
+background-color:rgb(255,5,60);
+color:black;
+padding:50px;
+margin:25px 150px;
+}
